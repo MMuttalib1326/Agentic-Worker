@@ -1,0 +1,13 @@
+ipywidgets 
+sentence_transformers 
+peft 
+accelerate 
+chromadb 
+autogen 
+markdownify 
+pypdf
+pyautogen==0.1.14 
+openai==0.28.1
+pyowm
+langchain_ibm
+langchain
